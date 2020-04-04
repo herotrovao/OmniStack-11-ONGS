@@ -5,7 +5,7 @@ Sistema para ONGS
 - Instale as dependencias: npm install
 - Execute a aplicação: npm start
 
-## Comandos Executados no desenvolvimento -  NodeJS
+## Comandos Executados -  NodeJS
 - npm init -y (start project)
 - npm install express (framework)
 - node index.js (start application)
