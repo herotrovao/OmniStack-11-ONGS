@@ -29,3 +29,18 @@ Sistema para ONGS
 - npm install react-icons (Icons)
 - npm install react-router-dom (Routes)
 - npm install axios (Connect backend - Client HTTP)
+
+
+## Iniciar -  React Native
+- Instale as dependencias: npm install
+- Execute a aplicação: npm start
+
+## Comandos Executados - React Native
+- npm install -g expo-cli  (install expo global)
+- expo init mobile (create project)
+- Install expo in android/IOS
+- yarn start (start application)
+- expo install expo-constants (package)
+- expo install expo-mail-composer (mail expo)
+- yarn add axios (Connect backend - Client HTTP)
+- yarn add intl (FormatNumber)
