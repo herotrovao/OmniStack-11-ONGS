@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img alt="Be The Hero" title="logo" src="github/logo.svg" width="260px" />
+</h1>
+
 # Semana OmniStack 11 - ONGS
 Sistema para ONGS
 
