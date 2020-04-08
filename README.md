@@ -9,7 +9,7 @@
 <p align="center">
   <a href="#computer-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#information_source-como-usar-?">Minhas Implementações</a>
+  <a href="#information_source">Como Usar ?</a>
 </p>
 
 <p align="center">
